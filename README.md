@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @EpikNohVuh
 -   I completed the UCF Coding Bootcamp in 2019 and I am currently a full time student at Fort Myers Technical College in the Web Development class to reinforce my learning.
--   
+   
 - 👀 I’m interested in ...
 -   Having a thorough understanding of javascript coding and react. I would like to specialize in Database Administration. 
--   
+   
 - 🌱 I’m currently learning ...
 -     CIW Database Design Specialist. 
-- 
+ 
 - 📫 How to reach me ...
 -     You can message me through Github. 
 
